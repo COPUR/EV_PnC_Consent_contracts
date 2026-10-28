@@ -9,7 +9,7 @@ Part of the **EV Owners Roaming Consent** project: a central, neutral consent re
 - OpenAPI: grant API, decision API (PDP), DPO API, rights API
 - AsyncAPI: RoamingGrantActive, RoamingGrantRevoked, SafeguardChanged
 - JSON Schema: consent receipt (ISO/IEC TS 27560 fields), decision, audit record
-- Generated clients: Kotlin (fail-closed PDP client with cache), TypeScript, Swift
+- Generated clients: Java (fail-closed PDP client with cache), TypeScript
 - Pact-style contract tests consumed by EV_PNC_ocpi-emsp and EV_PNC_roaming-hubs
 
 ## Requirements
